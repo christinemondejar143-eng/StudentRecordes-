@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 1,
+    "name": "Juan Dela Cruz",
+    "year": 1,
+    "course": "BSIT",
+    "grades": [85, 90, 88],
+    "enrolled": true,
+    "attendance": "Present"
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "year": 2,
+    "course": "BSCS",
+    "grades": [92, 89, 95],
+    "enrolled": true,
+    "attendance": "Present"
+  },
+  {
+    "id": 3,
+    "name": "Pedro Reyes",
+    "year": 1,
+    "course": "BSIT",
+    "grades": [75, 80, 78],
+    "enrolled": true,
+    "attendance": "Absent"
+  },
+  {
+    "id": 4,
+    "name": "Ana Garcia",
+    "year": 3,
+    "course": "BSIS",
+    "grades": [88, 91, 90],
+    "enrolled": false,
+    "attendance": "Absent"
+  },
+  {
+    "id": 5,
+    "name": "Mark Flores",
+    "year": 2,
+    "course": "BSIT",
+    "grades": [80, 85, 82],
+    "enrolled": true,
+    "attendance": "Present"
+  }
+]
